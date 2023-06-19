@@ -1,3 +1,5 @@
+                                                                            # I'm Aman Chaurasia
+
 # 💫 About Me:
 🚀 Backend Development:<br><br>Immersed in the world of backend development<br>Actively working on various projects, gaining hands-on experience<br>Focused on honing skills to contribute to robust and efficient backend systems<br>📚 Learning Environment:<br><br>Thriving in the excellent learning environment at Geekster<br>Expanding knowledge and making significant strides in career<br>Leveraging internship experience to enhance expertise in backend development<br>💻 Web Development Opportunities:<br><br>Actively seeking opportunities in web development<br>Java Spring Boot backend developer at Geekster Gaining experience in building robust backend systems using Spring Boot<br>🌟 Passion for Real-World Projects:<br><br>Passionate about web development<br>Eager to apply knowledge and expertise to impactful projects<br>Actively exploring job opportunities to contribute skills and foster growth as a web developer
 
